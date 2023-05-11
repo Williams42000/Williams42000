@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Williams Kemgni</h1>
-<h3 align="center">A passionate self-taught FrontEnd developer from Canada.</h3>
+<h3 align="center">A passionate FrontEnd developer from Canada.</h3>
 
 - 🔭 I’m currently working on **on many side projects**
 
