@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Williams Kemgni</h1>
-<h3 align="center">A passionate FrontEnd developer from Canada.</h3>
+<h3 align="center">A passionate Web developer from Canada.</h3>
 
 - 🔭 I’m currently working on **on many side projects**
 
-- 🌱 I’m currently learning **Tailwind,React js and WordPress**
+- 🌱 I’m currently learning **Tailwind,Next.js and Bubble and more**
 
 - 💬 Ask me about **anything here**
 
