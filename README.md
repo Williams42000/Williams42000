@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Williams%20Kemgni&fontSize=42&fontColor=58a6ff&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20Automation%20Engineer&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
 
 <!-- TYPING EFFECT -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Building+smart+automations+with+AI+%F0%9F%A4%96;Crafting+modern+web+experiences+%F0%9F%9A%80;From+Canada+to+the+world+%F0%9F%8C%8D)](https://github.com/Williams42000)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=Building+smart+automations+with+AI+%F0%9F%A4%96;Crafting+modern+web+experiences+%F0%9F%9A%80;From+Canada+to+the+world+%F0%9F%8C%8D)](https://github.com/Williams42000)
 
 </div>
 
