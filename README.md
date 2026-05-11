@@ -148,6 +148,10 @@ const williams = {
 
 <br>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/williams-mache-kemgni-10a479173/)
+
+<br>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Williams42000&color=1f6feb&style=for-the-badge&label=PROFILE+VIEWS)
 
 <br>
